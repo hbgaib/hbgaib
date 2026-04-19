@@ -1,1 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbgaib)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/hbgaib/assets-gweh/main/assets/tangtang-arknights.gif"  />
+</div>
